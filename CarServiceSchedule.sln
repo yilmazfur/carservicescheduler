@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarServiceSchedule", "CarServiceSchedule\CarServiceSchedule.csproj", "{EE7261BF-2401-4E9A-B4AA-5F0C3304AE60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarServiceScheduleTest", "CarServiceSchedule\CarServiceScheduleTest.csproj", "{E0B67529-1BCF-40DC-BF65-42204988AD10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE7261BF-2401-4E9A-B4AA-5F0C3304AE60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7261BF-2401-4E9A-B4AA-5F0C3304AE60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7261BF-2401-4E9A-B4AA-5F0C3304AE60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7261BF-2401-4E9A-B4AA-5F0C3304AE60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0B67529-1BCF-40DC-BF65-42204988AD10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0B67529-1BCF-40DC-BF65-42204988AD10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0B67529-1BCF-40DC-BF65-42204988AD10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0B67529-1BCF-40DC-BF65-42204988AD10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B33A9865-1F99-47D5-8725-8B5D232CC135}
+	EndGlobalSection
+EndGlobal
